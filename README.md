@@ -5,7 +5,7 @@
 
 # Tryout
 
-- ## Specify your secure passphrase as the first input
+- ## Specify your secret passphrase as the first input
 
   ``` this is my secret ```
 
